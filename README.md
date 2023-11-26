@@ -29,24 +29,21 @@ To install RustyExplorer, follow these steps:
      npm install
      ```
 
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-
-
-## Usage
-
-To run RustyExplorer, use the following commands:
-
-1. Start the development server:
+4. Start the development server:
 
    ```bash
    cd src-tauri
    cargo tauri dev
    ```
 
-Visit `http://localhost:3000` in your web browser to access RustyExplorer.
+
+## TO DO
+
+Visit [To do](TO_DO.md), to look at features we are intoducing.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
 
 ## Contributing
